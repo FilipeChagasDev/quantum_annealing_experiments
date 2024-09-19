@@ -12,4 +12,4 @@ Quantum annealing (QA) is an optimization process for finding the global minimum
 
 ## Content
 
-* [Solving the Traveling Salesman Problem with DWave's Hybrid Optimization](traveling_salesman.ipynb)
+* [Solving the Traveling Salesman Problem with DWave's Hybrid Optimization](traveling_salesman_hyb.ipynb)
